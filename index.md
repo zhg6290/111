@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+# <u>一起嗨呀</u>
 
-You can use the [editor on GitHub](https://github.com/zhg6290/111/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 第一章
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 第三章
 
-### Markdown
+#### 第四章
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### 第五章
 
-```markdown
-Syntax highlighted code block
+###### 第六章
 
-# Header 1
-## Header 2
-### Header 3
+*不是吧*    
 
-- Bulleted
-- List
+是爱 撒爱思的 ~~撒的撒爱思~~
 
-1. Numbered
-2. List
+十大试试啊大苏打爱思
 
-**Bold** and _Italic_ and `Code` text
+> 这是引用的部分
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+| 表头 | 表头 | 表头 |
+| ---- | :--: | ---: |
+| 内容 | 内容 | 内容 |
+| 内容 | 内容 | 内容 |
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhg6290/111/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+第二行分割表头和内容。封接的窗片表面的法线与毛细管夹角必须满足如下要求, 即图中的 $\tan \theta = n$ , 式中 $n$ 为窗片材料的折射率, 满足这一要求的 θ 角称为布儒斯特角, 窗片必须按此角封接上去, 这是因为, 按照光的电磁理论, 当光沿着毛细管轴方向传播通过布儒斯特窗片时, 对于电矢量和入射面平行的偏振光将无损失的通过它, 因此窗片界面对此偏振光不产生反射, 这样一来, 密封窗片一方面减少了电矢量与入射面平行的偏振光的反射损失, 另一方面使电矢量和入射面垂直的偏振光的振荡受到抑制 (因它有大的反射损失), 结果激光朿将以完全偏振的形式输出.
 
-### Support or Contact
+- 有一个就行，为了对齐，多加了几个
+  文字默认居左
+  -两边加：表示文字居中
+  -右边加：表示文字居右
+  注：原生的语法两边都要用 | 包起来。此处省略
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+`code 1 : ` 
+
+***
+
+上的啊实打实爱思的  $ mc^2 $ 撒 撒旦 阿斯顿爱思 $ \alpha $ 爱思
+$$
+p^2c^2+m^2c^4=E^2
+$$
+
+s as 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
